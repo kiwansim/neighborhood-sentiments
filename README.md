@@ -2,3 +2,4 @@
 
 ## Contributors
 - Ki Wan Sim
+- Yuchan Yang
