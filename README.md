@@ -24,10 +24,15 @@ Check that you are in the virtual env by checking where your Python is located. 
 
 4. Install flask
 ```
-`python -m pip install Flask==1.1.1
+py -m pip install Flask==1.1.1
 ```
 
-5. Run the app
+5. Install requirements
+```
+py -m pip install -r requirements.txt
+```
+
+6. Run the app
 ```
 $ python app.py
 ```
